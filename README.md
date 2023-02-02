@@ -1,6 +1,6 @@
 # gununfali
 
-A new Flutter project.
+A simple fortune-telling app.
 
 ## Getting Started
 
