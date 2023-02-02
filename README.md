@@ -1,4 +1,4 @@
-# gununfali
+# Günün Falı
 
 A simple fortune-telling app.
 
